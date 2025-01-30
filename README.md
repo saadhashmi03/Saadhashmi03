@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on E-commerce project<br>👯 I’m looking to collaborate on frontend development<br>💻 I’m looking   frontend developer job<br>🌱 I’m currently learning Next.js framework<br>
+🔭 I’m currently working on E-commerce project<br>👯 I’m looking to collaborate on frontend development<br>🌱 I’m currently learning Next.js framework<br>
 
 
 ## 🌐 Socials:
